@@ -9,7 +9,9 @@ $ pkg install toilet
 $ pkg install figlet 
 $ pkg install php
 $ git clone https://github.com/fahtudinali/LITRSPAM/edit/master
-$ cd LITRSPAM
+$ cd master
+$ ls
+$ python2 LITRSPAM.py
 ```
 # PERINGATAN
 KAMI HANYA MENYEDIAKAN TOOLS UNTUK TUJUAN KEBAIKAN BUKAN DISALAHKAN GUNAKAN UNTUK MENJAHILI SESEORANG
