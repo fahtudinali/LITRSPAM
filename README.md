@@ -8,7 +8,7 @@ $ pkg install git python2
 $ pkg install toilet 
 $ pkg install figlet 
 $ pkg install php
-$ git clone https://github.com/fahtudinali/LITRSPAM/edit/master/README.md 
+$ git clone https://github.com/fahtudinali/LITRSPAM/edit/master
 $ cd LITRSPAM
 ```
 # PERINGATAN
