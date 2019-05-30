@@ -9,9 +9,8 @@ $ pkg install toilet
 $ pkg install figlet 
 $ pkg install php
 $ git clone https://github.com/fahtudinali/LITRSPAM/edit/master/README.md 
-$ cd LITESPAM
+$ cd LITRSPAM
 ```
 # PERINGATAN
 KAMI HANYA MENYEDIAKAN TOOLS UNTUK TUJUAN KEBAIKAN BUKAN DISALAHKAN GUNAKAN UNTUK MENJAHILI SESEORANG
 SEGALA SESUATU DI TANGGUNG PENGGUNA OK BRO
-
