@@ -4,11 +4,14 @@ Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Dipe
 # INSTALASI
 ```
 $ pkg update upgrade
-$ pkg install git python2 toilet figlet php
-$ git clone https://github.com/4L13199/LITESPAM
+$ pkg install git python2 
+$ pkg install toilet 
+$ pkg install figlet 
+$ pkg install php
+$ git clone https://github.com/fahtudinali/LITRSPAM/edit/master/README.md 
 $ cd LITESPAM
 ```
 # PERINGATAN
 KAMI HANYA MENYEDIAKAN TOOLS UNTUK TUJUAN KEBAIKAN BUKAN DISALAHKAN GUNAKAN UNTUK MENJAHILI SESEORANG
-SEGALA SESUATU DI TANGGUNG PENGGUNA
+SEGALA SESUATU DI TANGGUNG PENGGUNA OK BRO
 
